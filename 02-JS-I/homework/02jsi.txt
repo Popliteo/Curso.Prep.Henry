@@ -1,0 +1,13 @@
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+Variables son elementos que podemos nombrar y guardar para más adelante. enseñar una palabra al programa. Por ejemplo variable var edad.
+String es una palabra de letras y/o números, debe ir entre comillas.
+Funciones son un conjunto de variables/órdenes (códigos) para poder usarlas más adelante. Por ej function { serie de códigos }
+Argumentos son variables dentro de la función que funcionan dentro de ella.
+Return es un pedido de que retorne (devuelva) un valor. Si está dentro de una función frena el código ahí y devuelve lo que se le pida.
+Las declaraciones if son pedidos de que en X caso haga X cosa.
+Los valores booleanos true/false nos sirven para identificar algo como "si" o "no", por ejemplo cuando queremos usar una declaración If X cosa es true o false.
