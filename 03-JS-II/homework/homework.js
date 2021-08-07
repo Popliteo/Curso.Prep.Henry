@@ -67,19 +67,19 @@ function colors(color) {
 switch (color){
   case "blue":
     return "This is blue"
-    break;
+ //   break;
   case "red":
    return "This is red"
-   break;
+//   break;
    case "green":
      return "This is green"
-     break;
+ //    break;
   case "orange":
     return "This is orange"
-    break;
+ //   break;
   default:
     return "Color not found"
-}
+  }
 }
 function esDiezOCinco(numero) {
   // Devuelve "true" si "numero" es 10 o 5
@@ -188,8 +188,8 @@ function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí  
-  let arrayTablaDel6 = []
-  for (let i = 0; i < 11; i++) {
+  var arrayTablaDel6 = []
+  for (var i = 0; i < 11; i++) {
         arrayTablaDel6.push(6 * i)
   }
   return arrayTablaDel6
